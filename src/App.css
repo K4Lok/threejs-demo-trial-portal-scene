@@ -1,0 +1,14 @@
+body {
+    height: 100vh;
+    margin: 0;
+    background-color: antiquewhite;
+}
+
+/* #app {
+    height: 100vh;
+} */
+
+canvas {
+    height: 100vh;
+    background-color: #081d27;
+}
